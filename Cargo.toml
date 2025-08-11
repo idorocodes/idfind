@@ -2,12 +2,12 @@
 name = "idfind"
 version = "0.1.0"
 edition = "2024"
-authors = ["Your Name <your@email.com>"]
+authors = ["John Amos idoroyen33@gmail.com"]
 license = "MIT OR Apache-2.0"
 description = "A tool to search files"
 readme = "README.md"
-homepage = "https://github.com/you/grrs"
-repository = "https://github.com/you/grrs"
+homepage = "https://github.com/idorocodes/idfind"
+repository = "https://github.com/idorocodes/idfind"
 keywords = ["cli", "search", "demo"]
 categories = ["command-line-utilities"]
 [dependencies]
